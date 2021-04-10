@@ -1,0 +1,3 @@
+const MIN_DOCTORS_ON_WORKS = 3;
+
+export { MIN_DOCTORS_ON_WORKS };

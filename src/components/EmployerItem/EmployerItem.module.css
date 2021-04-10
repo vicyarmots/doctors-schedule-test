@@ -1,0 +1,12 @@
+.employer {
+  display: flex;
+  justify-content: space-between;
+  background: cornsilk;
+  border-radius: 12px;
+  margin: 20px;
+  padding: 20px 24px;
+}
+
+.employer > * {
+  flex: 1 1;
+}

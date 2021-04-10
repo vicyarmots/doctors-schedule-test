@@ -1,0 +1,10 @@
+.content {
+  margin: 20px;
+  padding: 20px;
+  width: 60vw;
+}
+
+.loader {
+  font-size: 46px;
+  color: white;
+}
